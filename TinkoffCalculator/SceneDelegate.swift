@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  TinkoffCalculator
 //
-//  Created by liza on 07/10/24.
+//  Created by Nikita Shushpanov on 28.01.2024.
 //
 
 import UIKit
